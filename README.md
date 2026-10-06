@@ -1,14 +1,348 @@
-# 💫 About Me:
-Senior full-stack engineer with 12 years shipping production web and mobile platforms on Node.js, Next.js and AWS, including 2 years building OpenAI-powered features into live products. Architected MatchCare AI matching engine end to end, and built real-time systems across IoT telemetry, chat, fantasy-sports scoring. Leads development teams from architecture and database design through cloud deployment.
+# 👋 Hi, I'm Pawan Sen
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pawansen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=pawansen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pawansen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 Senior Full Stack & AI Engineer | Node.js | Next.js | AWS | LLMs | Real-Time Systems
+
+I’m a **Senior Full Stack & AI Engineer with 12 years of experience** building and scaling production web, mobile, AI, and real-time platforms.
+
+I specialize in taking products **from architecture and database design to APIs, frontend experiences, AI integrations, cloud infrastructure, and production deployment**.
+
+For the last few years, I've focused heavily on **AI-powered product development**, including OpenAI/LLM integrations, intelligent matching, AI-generated content, and automation.
 
 ---
-[![](https://komarev.com/ghpvc/?username=pawansen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 What I Build
+
+* 🤖 **AI-powered applications** using OpenAI APIs and LLMs
+* 🧩 **AI matching & recommendation systems**
+* ⚡ High-performance **Node.js / TypeScript backends**
+* 🌐 Modern **Next.js & React applications**
+* ☁️ Scalable **AWS cloud architectures**
+* 💬 Real-time communication with **Socket.io, WebSockets & RabbitMQ**
+* 📡 **IoT & MQTT telemetry platforms**
+* 🗄️ High-performance database architectures
+* 🔐 Secure APIs using OAuth 2.0 and RBAC
+* 📱 APIs powering both web and mobile applications
+* 👥 Technical leadership, architecture and mentoring
+
+---
+
+## 💼 Production Experience
+
+### 🤖 AI & LLM Engineering
+
+I've worked with AI as part of real production products rather than only prototypes.
+
+**MaidMatch AI**
+
+* Architected an AI-powered worker–employer matching engine
+* Integrated OpenAI APIs into the core product workflow
+* Built AI-powered CV generation
+* Built AI-powered image/profile tools
+* Combined AI recommendations with structured application data
+* Designed the backend architecture and production infrastructure
+
+**PrudentHomeBuyers**
+
+* Built an AI-powered property matching platform
+* Used property information, seller intent and market data for buyer matching
+* Integrated OpenAI into the matching workflow
+* Built the full-stack platform using Node.js, Next.js, React and MongoDB
+
+---
+
+## ⚡ Real-Time & Distributed Systems
+
+I've built systems where data needs to move **in real time**, not after a page refresh.
+
+### Examples
+
+* 📡 EV fleet telemetry using **MQTT**
+* 🚗 Real-time battery, motor and GPS monitoring
+* 💬 One-to-one and group chat using **Socket.io**
+* 📨 Message processing using **RabbitMQ**
+* 🏆 High-concurrency fantasy sports scoring
+* 🔔 Real-time notifications
+* 📱 WhatsApp Business API integrations
+
+---
+
+## 🏗️ Architecture & Backend
+
+My backend experience includes designing systems around:
+
+```text
+React / Next.js
+       ↓
+Node.js / NestJS / Express
+       ↓
+REST APIs / Microservices
+       ↓
+Redis / RabbitMQ / Socket.io
+       ↓
+PostgreSQL / MySQL / MongoDB / DynamoDB
+       ↓
+AWS
+```
+
+I care about:
+
+* Clean architecture
+* API design
+* Database modeling
+* Scalability
+* Performance
+* Security
+* Observability
+* Maintainability
+* Production reliability
+
+---
+
+## ☁️ AWS & Cloud
+
+Hands-on experience with:
+
+* AWS EC2
+* AWS Lambda
+* AWS S3
+* AWS RDS
+* API Gateway
+* SNS
+* Cognito
+* Route 53
+* Docker
+* CI/CD
+* Nginx
+
+I have experience taking applications from **local development → staging → production → monitoring and maintenance**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge\&logo=fastify\&logoColor=white)
+
+### AI / LLM
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+
+* OpenAI API
+* LLM Integration
+* AI-powered matching
+* AI content generation
+* AI-assisted workflows
+* AI image generation
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge\&logo=amazondynamodb\&logoColor=white)
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+
+### Real-Time & Messaging
+
+* Socket.io
+* MQTT
+* RabbitMQ
+* Redis
+* WhatsApp Business API
+* WebSockets
+
+### Engineering
+
+* REST APIs
+* Microservices
+* OAuth 2.0
+* RBAC
+* CI/CD
+* Git
+* GitHub
+* GitLab
+* Bitbucket
+* Jest
+* Agile / Scrum
+
+---
+
+# ⭐ Featured Projects
+
+## 🤖 MaidMatch — AI-Powered Job Platform
+
+**Node.js · Next.js · PostgreSQL · DynamoDB · RabbitMQ · Socket.io · AWS · OpenAI**
+
+AI-powered platform connecting employers, workers and partner agencies.
+
+### Highlights
+
+* AI worker–employer matching
+* OpenAI-powered recommendations
+* AI CV generation
+* AI image/profile tools
+* Real-time private & group messaging
+* WhatsApp Business API integration
+* Multi-role architecture
+* AWS production infrastructure
+
+---
+
+## 🏠 PrudentHomeBuyers — AI Property Matching
+
+**Node.js · Next.js · React · MongoDB · OpenAI**
+
+Real-estate lead generation and buyer matching platform.
+
+### Highlights
+
+* AI-assisted property/buyer matching
+* Seller-intent analysis
+* Property data processing
+* Automated lead workflows
+* REST APIs
+* Next.js frontend
+* MongoDB backend
+
+---
+
+## ⚡ VAOW Energy — EV & IoT Platform
+
+**Node.js · React · MongoDB · MySQL · DynamoDB · MQTT · Redis · Socket.io**
+
+Real-time platform for electric vehicles and energy-storage systems.
+
+### Highlights
+
+* Live EV fleet tracking
+* Battery telemetry
+* Motor telemetry
+* GPS tracking
+* MQTT device communication
+* Socket.io live dashboards
+* Redis performance optimization
+* OAuth 2.0 authentication
+
+---
+
+## 🏆 TwinGalaxies — Gaming Records Platform
+
+**Node.js · Express · MySQL · Redis · AWS S3**
+
+Production gaming platform supporting official video-game records.
+
+### Highlights
+
+* OTP authentication
+* Address verification
+* Role-based access
+* AWS S3 storage
+* Redis caching
+* Database optimization
+* High-performance APIs
+
+---
+
+## 🐾 JomPet — Pet Marketplace & Social Platform
+
+**Node.js · Express · TypeScript · MongoDB · Redis · AWS S3**
+
+A marketplace combined with social networking features.
+
+### Highlights
+
+* Buy/sell marketplace
+* Buyer–seller chat
+* Social feeds
+* Follow / Like / Comment
+* Real-time notifications
+* Redis caching
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=pawansen&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=pawansen&theme=dark&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pawansen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
+---
+
+# 🎯 Currently Focused On
+
+```text
+AI Engineering
+     ↓
+LLM Applications
+     ↓
+AI Agents & Automation
+     ↓
+Intelligent Matching & Recommendations
+     ↓
+Scalable Backend Architecture
+     ↓
+Cloud-Native Systems
+```
+
+I'm particularly interested in building products where **AI solves a real business problem**, rather than adding AI simply for the sake of using AI.
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in:
+
+* Senior Full Stack Engineer opportunities
+* AI / LLM Engineering
+* Backend & Platform Engineering
+* Technical Architecture
+* AI-powered SaaS products
+* Real-time distributed systems
+* Remote engineering opportunities
+
+📧 **Email:** [pawan.yn007@gmail.com](mailto:pawan.yn007@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/pawansen007](https://linkedin.com/in/pawansen007)
+
+---
+
+### 💡 Engineering Philosophy
+
+> **Build it well. Scale it intelligently. Automate what should be automated.**
+
+I enjoy solving difficult engineering problems, turning business requirements into reliable systems, and building products that can survive real production traffic.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=pawansen\&icon=0\&color=0)
