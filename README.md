@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior full-stack engineer with 12 years shipping production web and mobile platforms on Node.js, Next.js and AWS, including 2 years building OpenAI-powered features into live products. Architected MaidMatch's AI matching engine end to end, and built real-time systems across IoT telemetry, chat, fantasy-sports scoring. Leads development teams from architecture and database design through cloud deployment.
+Senior full-stack engineer with 12 years shipping production web and mobile platforms on Node.js, Next.js and AWS, including 2 years building OpenAI-powered features into live products. Architected MatchCare AI matching engine end to end, and built real-time systems across IoT telemetry, chat, fantasy-sports scoring. Leads development teams from architecture and database design through cloud deployment.
 
 
 ## 🌐 Socials:
